@@ -20,7 +20,8 @@ Nusantara Valor is a group that is consisted of 4 people for the AI branch, lets
 #### **How does it work?** 
 Users would scan their second hand items so that our Artificial Intelligence could do its magic and see is your item fit for the website or not!
 
-
+#### **How did we do it?** 
+The project began when we collected data from the web through sites such as facebook marketplace, reddit, quora, pinterest, and such to seek bad quality items. After that we preprocess the data by zooming in to the object or by cropping unwanted background. Then roboflow augments our dataset so the model could learn from more pictures. After that, the model was deployes inside of the roboflow API! which you can demo by running just the **HTML** of the file.
 ## API Reference
 
 #### Get AI response
