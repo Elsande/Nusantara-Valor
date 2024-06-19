@@ -1,5 +1,4 @@
-<img width="498" alt="image" src="https://github.com/ReyhanDzaki/NusantaraValor/assets/100507045/079fb16c-9d4b-4081-a8dd-98f9e4fddfd2">
-# Nusantara Valor 
+## Nusantara Valor 
 
 Hello visitor!
 Nusantara Valor is a group that is consisted of 4 people for the AI branch, lets meet our team
