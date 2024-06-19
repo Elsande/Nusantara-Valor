@@ -1,4 +1,4 @@
-
+<img width="498" alt="image" src="https://github.com/ReyhanDzaki/NusantaraValor/assets/100507045/079fb16c-9d4b-4081-a8dd-98f9e4fddfd2">
 # Nusantara Valor 
 
 Hello visitor!
@@ -37,3 +37,10 @@ $(function() {
 
 #### Explanation
 The code above uses roboflows api to return the classification of the picture that is sent! You can use the API freely!
+
+## The Result
+
+<img width="533" alt="image" src="https://github.com/ReyhanDzaki/NusantaraValor/assets/100507045/57523b0d-e214-4653-bb37-f519f1d16a23">
+
+#### Explanation!
+Through the image we can tell that the item is layak or feasible!
